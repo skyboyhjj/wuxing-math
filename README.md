@@ -28,10 +28,10 @@
 
 | 图 | 内容 |
 |---|---|
-| `fig_cartan.png` | $A_4^{(1)}$ 核算：五节点环 $C_5$ 与特征值谱 |
-| `fig_phase.png` | 生克耦合相图：有限型 / 仿射型 / 不定型 |
-| `fig_pert.png` | 乘侮微扰：临界线的平移与弯折、手性复模态 |
-| `fig_fold.png` | 非线性乘侮：S 形分支 + 相变带 + 滞后回线 |
+| [fig_cartan.png](figures/fig_cartan.png) | $A_4^{(1)}$ 核算：五节点环 $C_5$ 与特征值谱 |
+| [fig_phase.png](figures/fig_phase.png) | 生克耦合相图：有限型 / 仿射型 / 不定型 |
+| [fig_pert.png](figures/fig_pert.png) | 乘侮微扰：临界线的平移与弯折、手性复模态 |
+| [fig_fold.png](figures/fig_fold.png) | 非线性乘侮：S 形分支 + 相变带 + 滞后回线 |
 
 ## 目录
 
