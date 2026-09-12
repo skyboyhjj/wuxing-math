@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below — and please also cite the referenced literature."
+title: "wuxing-math: 五行数学之旅 — A mathematical journey of the Chinese Five Elements (Wu Xing), from the 5-cycle / affine Cartan matrix A4(1) to fold phase transitions"
+abstract: >-
+  An independent, exploratory mathematical reconstruction of the Chinese Five-Elements
+  (Wu Xing) system. It encodes the five elements as a 5-cycle whose generative relation
+  is a cyclic permutation matrix R with R^5 = I (a 5th-order cyclic group of orthogonal
+  matrices), identifies the Wu-Xing graph with the affine Dynkin diagram A4(1) and its
+  generalized Cartan matrix A = 2I - Adj(C5) (positive semidefinite, corank 1, with the
+  golden ratio appearing in its nonzero spectrum), studies the generation/restriction
+  couplings as positive/negative feedback in a self-stabilizing network (with a phase
+  diagram whose critical boundary is a + b = 1), and shows that a nonlinear over-restraint
+  ("cheng/wu") term yields a fold (saddle-node) phase transition with bistability and
+  hysteresis.
+authors:
+  - family-names: "He"
+    given-names: "Jijie"
+    alias: "skyboyhjj"
+    website: "https://github.com/skyboyhjj"
+version: "0.1.0"
+date-released: "2026-09-12"
+license: MIT
+repository-code: "https://github.com/skyboyhjj/wuxing-math"
+keywords:
+  - wuxing
+  - five-elements
+  - traditional-chinese-medicine
+  - kac-moody
+  - cartan-matrix
+  - cyclic-group
+  - dynamical-systems
+  - fold-bifurcation
+  - phase-transition
+  - mathematical-modeling
+references:
+  - type: article
+    title: "五行理论的数学模型及其微分方程组的通解"
+    authors:
+      - family-names: "赵"
+        given-names: "威"
+      - family-names: "赵"
+        given-names: "致镛"
+    journal: "四川中医"
+    volume: 24
+    issue: 11
+    start: 7
+    end: 9
+    year: 2006
+  - type: article
+    title: "五行学说思维模型的数学结构"
+    authors:
+      - family-names: "吴"
+        given-names: "大为"
+    year: 2008
+  - type: article
+    title: "中医五行学说的数学模型与仿射型广义Cartan矩阵"
+    authors:
+      - family-names: "古"
+        given-names: "立翠"
+    journal: "黑龙江医药"
+    volume: 23
+    issue: 1
+    start: 77
+    end: 78
+    year: 2010
+    doi: "10.14035/j.cnki.hljyy.2010.01.008"
+  - type: thesis
+    title: "中医五行理论的数学分析方法探究"
+    authors:
+      - family-names: "李"
+        given-names: "晓伟"
+    institution: "天津中医药大学"
+    year: 2012
