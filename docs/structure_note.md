@@ -114,7 +114,7 @@ $$A=\begin{bmatrix}2&-1&0&0&-1\\-1&2&-1&0&0\\0&-1&2&-1&0\\0&0&-1&2&-1\\-1&0&0&-1
 
 **全局乘侮** → 矩阵分解为
 
-$$\underbrace{2I-a\,\mathrm{Adj}(\text{生})-\big(b+\tfrac{\mu+\nu}{2}\big)\mathrm{Adj}(\text{克})}_{\text{对称部分}}+\underbrace{\tfrac{\mu-\nu}{2}(C-C^\mathsf{T})}_{\text{手性}}$$
+$$\underbrace{2I-a\,\mathrm{Adj}(\text{生})-\big(b+\tfrac{\mu+\nu}{2}\big)\mathrm{Adj}(\text{克})} _{\text{对称部分}}+\underbrace{\tfrac{\mu-\nu}{2}(C-C^\mathsf{T})} _{\text{手性}}$$
 
 对称部分位移 ⟹ 临界线**整体平移**为 $`a+b+\frac{\mu+\nu}{2}=1`$；手性项**不移动边界**，但把实谱**复化**（引入旋转）。
 
