@@ -114,7 +114,9 @@ $$A=\begin{bmatrix}2&-1&0&0&-1\\-1&2&-1&0&0\\0&-1&2&-1&0\\0&0&-1&2&-1\\-1&0&0&-1
 
 **全局乘侮** → 矩阵分解为
 
-$$\underbrace{2I-a\,\mathrm{Adj}(\text{生})-\big(b+\tfrac{\mu+\nu}{2}\big)\mathrm{Adj}(\text{克})} _{\text{对称部分}}+\underbrace{\tfrac{\mu-\nu}{2}(C-C^\mathsf{T})} _{\text{手性}}$$
+$$\underbrace{2I-a\,\mathrm{Adj}(C_g)-\big(b+\tfrac{\mu+\nu}{2}\big)\mathrm{Adj}(C_r)}_{\text{symmetric}}+\underbrace{\tfrac{\mu-\nu}{2}(C-C^\mathsf{T})}_{\text{chiral}}$$
+
+其中 $`C_g`$ 为相生环、$`C_r`$ 为相克环；两个 underbrace 分别标注**对称部分**与**手性（反对称）**部分。
 
 对称部分位移 ⟹ 临界线**整体平移**为 $`a+b+\frac{\mu+\nu}{2}=1`$；手性项**不移动边界**，但把实谱**复化**（引入旋转）。
 
@@ -191,7 +193,9 @@ $$x=\pm\frac{1}{\sqrt{3\mu}},\qquad |D|=\frac{2}{3}\frac{1}{\sqrt{3\mu}}$$
 
 回到相图（§3.3）——**它正是"正负反馈配比决定系统命运"的定量版本**：
 
-$$a+b<1\ (\text{反馈偏弱 → 刚性}),\quad a+b=1\ (\textbf{反馈平衡 → 自稳/临界}),\quad a+b>1\ (\text{反馈过强 → 失稳})$$
+$$a+b<1,\qquad a+b=1,\qquad a+b>1$$
+
+（依次对应：**反馈偏弱 → 刚性**；**反馈平衡 → 自稳/临界**；**反馈过强 → 失稳**。）
 
 张景岳"**无生则发育无由，无制则亢而为害**"＝ 正反馈供能 + 负反馈约束，**缺任一则系统崩**。钱学森的"正负反馈"判词，在这里首次有了一个可计算的**平衡点**。
 
