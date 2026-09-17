@@ -29,5 +29,6 @@
 | 对接①续九_θ0的中医对应.md | 05-tcm-correspondence/01i-tcm-correspondence-of-theta-zero.md |
 | 对接①续十_以平为期.md | 05-tcm-correspondence/01j-ping-wei-qi.md |
 | 对接①续十一_双临界点的中医对应.md | 05-tcm-correspondence/01k-tcm-correspondence-of-bicritical.md |
+| 审计_隐含前提_五行毕氏螺旋.md | 06-audit/implicit-premises-audit.md |
 
 > 正文里若出现中文文件名（写作时的旧引用），可在此表查到对应英文文件。
