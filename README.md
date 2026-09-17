@@ -5,6 +5,7 @@
 把中医「五行」从"五种物质的清单"重新讲成"一张五节点环的关系网"，并一路推到"相变"。
 
 > 研究笔记请见 **[五行数学结构 · 研究笔记](docs/structure_note.md)**。
+> 毕达哥拉斯螺旋研究请见 **[五行 · 毕达哥拉斯螺旋（pythagorean-spiral/）](pythagorean-spiral/README.md)**。
 
 ---
 
@@ -46,6 +47,7 @@ wuxing-math/
 │                chengwu_perturb.py        乘侮微扰
 │                fold_transition.py        非线性相变（fold）
 ├── figures/     fig_cartan / fig_phase / fig_pert / fig_fold
+├── pythagorean-spiral/  毕达哥拉斯螺旋研究（子项目，见 pythagorean-spiral/README.md）
 └── references/  README.md（仅引用信息，不含 PDF）
 ```
 
