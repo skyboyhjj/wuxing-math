@@ -7,6 +7,7 @@
 | 总报告_五行与毕达哥拉斯螺旋_v1.2.md（现行） | 00-overview/master-report-v1.2.md |
 | 综合报告_五行毕达哥拉斯螺旋_几何与动力学.md | 00-overview/synthesis-geometry-and-dynamics.md |
 | 读解_五行和毕达哥拉斯螺旋.md | 01-source-reading/source-reading-geometry.md |
+| 读解_generic模型族.md | 01-source-reading/generic-family-definition.md |
 | 评述_元宝五行螺旋报告.md | 01-source-reading/commentary-on-yuanbao-report.md |
 | 复盘_矛盾迭代引擎_五行毕氏螺旋研究.md | 01-source-reading/retrospective-contradiction-engine.md |
 | 读解_wuxing-math仓库.md | 02-wuxing-math-repo/reading-the-repo.md |
